@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-meeting-landing-page/static/css/main.d842dd66.chunk.css",
+    "main.js": "/react-meeting-landing-page/static/js/main.2658ea01.chunk.js",
+    "main.js.map": "/react-meeting-landing-page/static/js/main.2658ea01.chunk.js.map",
+    "runtime-main.js": "/react-meeting-landing-page/static/js/runtime-main.c6db3063.js",
+    "runtime-main.js.map": "/react-meeting-landing-page/static/js/runtime-main.c6db3063.js.map",
+    "static/js/2.2dabc698.chunk.js": "/react-meeting-landing-page/static/js/2.2dabc698.chunk.js",
+    "static/js/2.2dabc698.chunk.js.map": "/react-meeting-landing-page/static/js/2.2dabc698.chunk.js.map",
+    "index.html": "/react-meeting-landing-page/index.html",
+    "static/css/main.d842dd66.chunk.css.map": "/react-meeting-landing-page/static/css/main.d842dd66.chunk.css.map",
+    "static/js/2.2dabc698.chunk.js.LICENSE.txt": "/react-meeting-landing-page/static/js/2.2dabc698.chunk.js.LICENSE.txt",
+    "static/media/Footer.module.css": "/react-meeting-landing-page/static/media/image-footer.b047b797.jpg",
+    "static/media/image-hero-left.40626e78.png": "/react-meeting-landing-page/static/media/image-hero-left.40626e78.png",
+    "static/media/image-hero-right.95e30a4c.png": "/react-meeting-landing-page/static/media/image-hero-right.95e30a4c.png",
+    "static/media/image-hero.3dbd9bf0.png": "/react-meeting-landing-page/static/media/image-hero.3dbd9bf0.png",
+    "static/media/image-man-texting.ce697f53.jpg": "/react-meeting-landing-page/static/media/image-man-texting.ce697f53.jpg",
+    "static/media/image-men-in-meeting.19b0c438.jpg": "/react-meeting-landing-page/static/media/image-men-in-meeting.19b0c438.jpg",
+    "static/media/image-woman-in-videocall.346ccf01.jpg": "/react-meeting-landing-page/static/media/image-woman-in-videocall.346ccf01.jpg",
+    "static/media/image-women-videochatting.bd9bcb97.jpg": "/react-meeting-landing-page/static/media/image-women-videochatting.bd9bcb97.jpg",
+    "static/media/logo.8282cfa9.svg": "/react-meeting-landing-page/static/media/logo.8282cfa9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6db3063.js",
+    "static/js/2.2dabc698.chunk.js",
+    "static/css/main.d842dd66.chunk.css",
+    "static/js/main.2658ea01.chunk.js"
+  ]
+}
