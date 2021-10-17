@@ -1,0 +1,23 @@
+.gallery__image {
+    padding: 0 165px;
+    margin-bottom: 80px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+}
+
+@media (max-width: 768px) {
+    .gallery__image{
+        gap: 11px;
+        margin-bottom: 48px;
+        padding: 0 40px;
+    }
+}
+@media (max-width: 591px) {
+    .gallery__image{
+        grid-template-columns: repeat(2, 1fr);
+        padding: 0 24px;
+        gap: 24px 25px;
+        margin-bottom: 64px;
+    }
+}
