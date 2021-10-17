@@ -9,10 +9,10 @@ function App() {
   return (
     <div >
     <Header />
-    <Path />
+    <Path number="01" />
     <ImageGallery />
     <MeetingInfo />
-    <Path noBottom="no-bottom" />
+    <Path noBottom="no-bottom" number="02"/>
     <Footer />
     </div>
   );

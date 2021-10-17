@@ -6,7 +6,7 @@ const Path = (props) => {
     <section class={`path ${props.noBottom}`}>
       <div class="path__content">
         <div class="line"></div>
-        <div class="number">01</div>
+        <div class="number">{props.number}</div>
       </div>
     </section>
   );
